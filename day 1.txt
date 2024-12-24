@@ -1,0 +1,41 @@
+1)INTRO TO P.E
+
+Prompt engineering involves crafting precise and effective prompts to guide AI models in generating the desired outputs. It's a critical skill for optimizing AI performance across various applications.
+
+----------------------------------
+What is a Prompt?
+
+A prompt is the input provided to an AI model to elicit a specific response.
+
+The quality of the output heavily depends on how the prompt is structured.
+
+-----------------------------------
+
+2) A good prompt should be clear, consisted and good.
+you have to manage ambiguity.
+
+
+5 key components--
+1.instruction
+2.context
+3.input data
+4.output indicator
+5.reult tool anaylsis
+
+----------------------------------------------
+
+NOV 2  2022 ;;; CHATGPT
+
+NOV 30 LAUCH CHATGPT""
+
+A TEXT BASED CHATBOT IS INVENTED
+-----------------------------------------------
+
+WHY CHATGPT IS DIFF THAN OTHER TOOLS?
+IT IS THE ONE OF THE TOOL WHICH WORKS IN A GIVEN PARAMETER AND USE THE ALL 1.3 TRILLION SEARCH RULTS TO OPREATE ON THE GIVEN PROMPT.
+ITS IDENTIFY OUR HISTORY AND TONE IN SUCH WAY IT GENERATE THE RESULT 
+
+-----------------------------------------------
+
+
+AI BUILD
